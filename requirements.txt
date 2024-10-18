@@ -1,2 +1,5 @@
+cv2
+mediapipe
+time
+math
 numpy
-pandas
