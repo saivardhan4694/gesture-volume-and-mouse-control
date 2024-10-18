@@ -4,9 +4,7 @@ This project implements a hand gesture recognition system using the MediaPipe Ha
 
 # Key Features:
 Volume Control: Adjust the volume based on the distance between the thumb and index finger. As the distance increases, the volume increases proportionally.
-Virtual Mouse:
-Move the mouse pointer by raising only the index finger and moving your hand.
-Perform a right-click by raising both the index and middle fingers simultaneously.
+Virtual Mouse: Move the mouse pointer by raising only the index finger and moving your hand.Perform a right-click by raising both the index and middle fingers simultaneously.
 
 # Installation
 Clone the repository:
