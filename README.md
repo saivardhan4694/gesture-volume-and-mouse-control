@@ -26,7 +26,7 @@ The program will automatically detect your hand gestures and control the volume 
 Volume Control: Adjust by varying the distance between your thumb and index finger.
 Mouse Control: Move the pointer with the index finger raised; perform a right-click by raising the middle finger.
 
-#Contributing
+# Contributing
 Feel free to open issues or submit pull requests for improvements.
 
 
