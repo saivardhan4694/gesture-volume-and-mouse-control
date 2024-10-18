@@ -3,3 +3,4 @@ mediapipe
 time
 math
 numpy
+pyautogui
